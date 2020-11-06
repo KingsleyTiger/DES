@@ -5,6 +5,7 @@
 
 #include"header.h"
 #include"func.c"
+#include"sbox.c"
 
 int main(){
     char *p = SimplePBox();     //배열을 리턴하는 SimplePBox를 받아주는 포인터 p 선언
